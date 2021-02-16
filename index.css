@@ -1,0 +1,9 @@
+header{
+    text-align: center;
+    color: rgb(49, 2, 94);
+    text-shadow: rgb(133, 49, 211);
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-image: linear-gradient(to left , orange,wheat);
+}
