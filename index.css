@@ -19,12 +19,31 @@ header{
     width: 100%;
     background-color: white;
     padding-top: 7px;
-    padding-left: 25px;
-    padding-right: 25px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
     padding-bottom: 7px;
-    color: ivory;    
+    color: ivory;
+    
 }
 #tab1{
     background-image: linear-gradient(to left,rgb(1, 61, 1),green);
+    text-align: center;
+}
+#tab2{
+    background-image: linear-gradient(to left,rgb(1,61,1),green);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer{
+    border: 3px solid ;
+    height: 500px;
+    color: rgb(1, 61, 1);
 }
 
+#tab2 > a{
+    color: white;
+}
+.footer > center{
+    padding-top: 400px;
+}
