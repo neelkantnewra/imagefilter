@@ -6,4 +6,26 @@ header{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
     background-image: linear-gradient(to left , orange,wheat);
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
+
+.main-tab{
+    display: flex;
+    flex-direction: row;
+
+}
+.main-tab > div{
+    width: 100%;
+    background-color: white;
+    padding-top: 7px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 7px;
+    color: ivory;
+    
+}
+#tab1{
+    background-image: linear-gradient(to left,rgb(1, 61, 1),green);
+}
+
